@@ -1,1 +1,0 @@
-worker: python bot8.py
