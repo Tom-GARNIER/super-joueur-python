@@ -1,7 +1,0 @@
-os
-sys
-discord
-asyncio
-time
-random
-import json
